@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    text-align: center;                                                              
+}
+.img_div{
+    position: relative;
+    
+}
+.img_div img{
+    box-shadow: 10px 5px 10px 0px rgb(150, 133, 255);
+    /* box-shadow: 0 0 10px 3px black; */
+    position: absolute;
+    top: -100px;
+    left: -20px;
+    border-radius: 50%;
+}
+.job_div{
+    margin-bottom: 30px;
+}
+.text_div{
+    margin-block: 15px;
+}
+.quotes{
+    color: rgb(179, 168, 255);
+}
